@@ -1,0 +1,3 @@
+# include file and folder names to be ignored by git
+
+.ipynb_checkpoints/
